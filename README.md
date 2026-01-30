@@ -1,4 +1,4 @@
-# 🪨✂️📄 Jogo do Jokenpô (Android)
+#Jogo do Jokenpô (Android)
 
 Esse é um projeto Android simples feito em **Java** que implementa o clássico jogo **Pedra, Papel e Tesoura (Jokenpô)**.
 
