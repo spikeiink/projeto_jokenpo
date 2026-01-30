@@ -36,9 +36,9 @@ Interface básica para Android
 
 ---
 
-<img width="291" height="550" alt="image" src="https://github.com/user-attachments/assets/018d3ac1-339b-4933-8f86-6c00d15afd53" />
+<img width="200" height="550" alt="image" src="https://github.com/user-attachments/assets/018d3ac1-339b-4933-8f86-6c00d15afd53" />
 
-<img width="483" height="903" alt="image" src="https://github.com/user-attachments/assets/d84f4f4a-1d2f-433f-b70a-b7610807390c" />
+<img width="200" height="550" alt="image" src="https://github.com/user-attachments/assets/d84f4f4a-1d2f-433f-b70a-b7610807390c" />
 
 
 
