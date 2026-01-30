@@ -1,4 +1,4 @@
-#Jogo do Jokenpô (Android)
+# Jogo do Jokenpô (Android)
 
 Esse é um projeto Android simples feito em **Java** que implementa o clássico jogo **Pedra, Papel e Tesoura (Jokenpô)**.
 
@@ -9,7 +9,7 @@ O jogador escolhe uma opção e o app sorteia a opção da máquina; então o re
 
 ---
 
-##Tecnologias usadas
+## Tecnologias usadas
 
 Linguagem: **Java**  
 IDE: **Android Studio**  
@@ -18,7 +18,7 @@ Plataforma: Android (API mínima conforme configurado no projeto)
 
 ---
 
-##Funcionalidades
+## Funcionalidades
 
 Tela de escolha do jogador  
 Resultado contra a máquina  
@@ -27,7 +27,7 @@ Interface básica para Android
 
 ---
 
-##Como rodar o projeto
+## Como rodar o projeto
 
 1. Clone o repositório:
 2. Abra o projeto no Android Studio.
